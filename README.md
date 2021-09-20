@@ -1,5 +1,10 @@
-<FIELDSET>
-    <LEGEND> Lawina </LEGEND>
-    Co mówi lawina do lawiny? <br>
-    Spadamy stąd<br>
-</FIELDSET
+<!DOCTYPE html>
+    <html lang="pl-PL">
+    <html>
+        <head>
+        <meta charset="utf-8">
+        <title> </title>
+</head>
+<body>
+</body>
+</html>
